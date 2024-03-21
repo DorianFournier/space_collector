@@ -53,7 +53,7 @@ Each command returns a response, made with:
 
 - `{planet_id}` is between 0 and 65535
 - `{ship_id}` is between 1 and 9
-- `{abscissa}` and `{ordinate}` are between 0 and 19 999 ((0, 0) is the top left corner)
+- `{abscissa}` and `{ordinate}` are between 0 and 19 999 ((0, 0) is the bottom left corner)
 
 ### Move
 
